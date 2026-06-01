@@ -65,6 +65,9 @@ See also:
 # R:
 
 # S:
+- [SIMPL](https://github.com/las-r/simpl)
+  - [1. Super Implementable and Minimalist Programming Language](https://github.com/las-r/simpl/blob/main/simpl/SPEC.md)
+  - [2. Complementary Modular Programming Language Extras](https://github.com/las-r/simpl/blob/main/cmplex/SPEC.md)
 - Subtype Inference by Example (series):
   - [Part 1: Introducing CubiML](https://blog.polybdenum.com/2020/07/04/subtype-inference-by-example-part-1-introducing-cubiml.html);
   - [Part 2: Parsing and Biunification](https://blog.polybdenum.com/2020/07/11/subtype-inference-by-example-part-2-parsing-and-biunification.html);
