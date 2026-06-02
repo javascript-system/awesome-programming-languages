@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **948** programming languages that you might be interested in.
+The list of **949** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -1049,7 +1049,7 @@ It features a full IDE with undo support and interactive construction as well as
 - [Quirrel](https://github.com/GaijinEntertainment/quirrel) - Quirrel - Gaijin Entertainment dynamic script language (former Squirrel).
 - [Quorum](https://github.com/qorf/quorum-language) - Quorum is a general purpose programming language designed for several purposes. First, we regularly run experiments with people at various age and experience ranges, investigating ways to make the language easier to use. Evidence gathered from these studies is filtered back into the design, making quorum an "evidence-based" programming language. Second, as our team is interested in issues of equity for all people, perhaps especially people with disabilities, we are careful to design libraries that are friendly to the broad population. This means many internal libraries in the language have support for accessibility.
 <a name="R"></a>
-# R (37):
+# R (38):
 - [R3](https://github.com/phreda4/r3) - R3 is a Colorforth like laneguage, a FORTH dialect, R3 is a 64 bits, very small dictionary and simple working, strong typed, many version for windows/linux/mac and raspberry pi.
 - [R4](https://github.com/phreda4/r4) - R4 is a Colorforth like laneguage, a FORTH dialect, R4 is 32bits, very small dictionary and simple working, strong typed, many version for windows/linux/mac and raspberry pi.
 - [Racket](https://github.com/racket/racket) - A general-purpose, multi-paradigm programming language and a multi-platform distribution that includes the Racket language, compiler, large standard library, IDE, development tools, and a set of additional languages including Typed Racket (a sister language of Racket with a static type-checker), Swindle, FrTime, Lazy Racket, R5RS & R6RS Scheme, Scribble, Datalog, Racklog, Algol 60 and several teaching languages.
@@ -1060,6 +1060,7 @@ It features a full IDE with undo support and interactive construction as well as
 - [RapidBATCH](https://github.com/phorward/rapidbatch) - A general-purpose scripting language platform for automation.
 - [RascalMpl](https://github.com/usethesource/rascal) - Rascal Metaprogramming Language. Rascal is a programming language; such that meta programs can be created by, understood by, and debugged by programmers. Rascal primitives include immutable data, context-free grammars and algebraic data-types, relations, relational calculus operators, advanced patterns matching, generic type-safe traversal, comprehensions, concrete syntax for objects, lexically scoped backtracking, and string templates for code generation. It has libraries for integrating language front-ends, for reusing analysis algorithms, for getting typed meta-data out of version management systems, for interactive visualization, etc.
 - [Rave](https://github.com/Ttimofeyka/Rave) - Rave is a statically typed, compiled, procedural, general-purpose programming language.
+- [Raven](https://github.com/martian56/raven) - Raven is a statically typed, compiled programming language that emits native binaries through a Cranelift backend. It has a tracing garbage collector, generics and traits, sum types with pattern matching, goroutine-style concurrency, a C FFI, and the rvpm package manager with GitHub-direct dependencies.
 - [Ravi](https://github.com/dibyendumajumdar/ravi) - Ravi is a dialect of Lua with limited optional static typing and features a JIT compiler powered by MIR as well as support for AOT compilation to native code.
 - [Reason](https://github.com/reasonml/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems.
 - [Red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single 1MB file!
