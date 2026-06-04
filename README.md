@@ -1,5 +1,5 @@
 # Awesome programming languages
-The list of **951** programming languages that you might be interested in.
+The list of **952** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
@@ -141,7 +141,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Buzz](https://github.com/buzz-language/buzz) - A small/lightweight statically typed scripting language written in Zig.
 - [β-Juliet](https://github.com/catseye/beta-Juliet) - β-Juliet is a fairly minimal event-oriented language. In β-Juliet, the world is modelled as a set of events which have no inherent organization or order. Each event can be denoted with a symbol, such as DominoFalls, CatMeows, or SunSets, or (in version 2.0) a string of symbols, such as Address Line Six Goes High or Greengrocer Falls Asleep on Subway. Each event can cause other events to occur — these are termed consequences of the event. In addition, this causation may be conditional, but the only condition that is possible to check is: given two events, which one happened more recently?
 <a name="C"></a>
-# C (75):
+# C (76):
 - [C2](https://github.com/c2lang/c2compiler) - The C2 project attempts to create a new language, strongly based on C. In a nutshell, the main differences with C are:
   - no more header files (too much typing)
   - no includes
@@ -175,6 +175,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Chalice](https://www.microsoft.com/en-us/research/project/chalice/?from=https://research.microsoft.com/en-us/projects/chalice/&type=exact) - Chalice is an experimental language that explores specification and verification of concurrency in programs. The language supports dynamic object creation, dynamic thread creation (fork and join), mutual-exclusion and readers-writers locks, monitor invariants, thread pre- and postconditions. The language allows fine-grained locking via specifications that track fractional permissions for memory locations. The research project also includes an automatic static program verifier for Chalice.
 - [Chapel](https://github.com/chapel-lang/chapel) - Chapel is a modern programming language designed for productive parallel computing at scale. Chapel's design and implementation have been undertaken with portability in mind, permitting Chapel to run on multicore desktops and laptops, commodity clusters, and the cloud, in addition to the high-end supercomputers for which it was originally undertaken.
 - [Charm](https://github.com/tim-hardcastle/Charm) - Charm is a data-oriented scripting language.
+- [Chibicc](https://github.com/rui314/chibicc) - Chibicc is yet another small C compiler that implements most C11 features. Even though it still probably falls into the "toy compilers" category just like other small compilers do, chibicc can compile several real-world programs, including Git, SQLite, libpng and chibicc itself, without making modifications to the compiled programs. Generated executables of these programs pass their corresponding test suites. So, chibicc actually supports a wide variety of C11 features and is able to compile hundreds of thousands of lines of real-world C code correctly.
 - [Ciao](https://github.com/ciao-lang/ciao) - Ciao is a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, extensible, and modular.
 - [Cicada](https://github.com/cicada-lang/cicada) - Cicada language is a dependently typed programming language and an interactive theorem prover. The aim of cicada project is to help people understand that developing software and developing mathematics are increasingly the same kind of activity, and people who practices these developments, can learn from each other, and help each other in very good ways.
 - [Circle](https://github.com/seanbaxter/circle) - Circle is the richest C++ compiler yet. Circle describes a path for evolving C++ to meet the needs of institutional users. The versioning mechanism that accommodated the development of the features above will also accommodate research into critically important areas like memory safety. Rather than insisting on a one-size-fit's-all approach to language development, project leads can opt into collections of features that best target their projects' needs. Features:
