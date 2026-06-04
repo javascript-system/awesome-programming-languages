@@ -27,6 +27,7 @@ then it's place for you. Here you can find interesting programming languages tha
 - [Adept](https://github.com/AdeptLanguage/Adept) - A blazing fast language for general purpose programming.
 - [Adept3x](https://github.com/IsaacShelton/Adept3x) - A language designed to help maximize developer productivity and safety
 - [AdvSys](https://github.com/dbetz/advsys) - AdvSys - A Language for Writing Text Adventure Games
+- [Aergia](https://github.com/las-r/aergia) - Aergia is a programming language designed with the aim of having incredibly minimal, esolang-style syntax while still being readable enough to be considered a usable programming language.
 - [Agda](https://github.com/agda/agda) - Agda is a dependently typed functional programming language. It has inductive families, i.e., data types which depend on values, such as the type of vectors of a given length. It also has parametrised modules, mixfix operators, Unicode characters, and an interactive Emacs interface which can assist the programmer in writing the program.
 - [Agena](https://sourceforge.net/projects/agena/) - Agena is an easy-to-learn procedural programming language suited to be used in scientific, mathematical, scripting, networking, and many other applications. Binaries are available for Solaris, Windows, Linux, OS/2, Mac OS X, Raspberry Pi and DOS.
 - [Aime](https://aime-embedded.sourceforge.net/) - aime is an imperative procedural programming language, with a C inspired syntax. It is a high level programming language, with fully automated memory management, and strong static types.
