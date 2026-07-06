@@ -1300,3 +1300,4 @@ readable, so you can focus on problems rather than ceremony.
 - [History of Programming Languages](http://hopl.info) - HOPL: Online Historical Encyclopaedia of Programming Languages.
 - [Esolang Wiki](https://esolangs.org/wiki/) - Esolang is a wiki dedicated to esoteric programming languages and related topics.
 - [List of Chinese programming languages](https://github.com/ploc-org/zh-lang-book) - List of production ready and in development stage of programming languages in Chinese.
+- [A list of embedded scripting languages](https://github.com/dbohdan/embedded-scripting-languages) - The following is a list of reasonably mature or actively developed open source embedded scripting languages to use in your application. Stretching the definition of a scripting language, it also includes Datalog implementations. Items with a strong copyleft license (like the GNU GPL) that will apply to the rest of your code are emphasized as a warning.
